@@ -29,7 +29,7 @@ class CustomDropdownbutton extends StatelessWidget {
         ).toList(),
         underline: Container(),
         dropdownColor: const Color.fromRGBO(53, 53, 53, 1.0),
-        style: TextStyle(color: Colors.white),
+        style: TextStyle(color: Colors.red),
       ),
     );
   }
